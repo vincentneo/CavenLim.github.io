@@ -166,9 +166,9 @@ export default function About() {
                         </div>
                      
                     </div>
-                    {/* <div className="right">
+                    <div className="right">
                         <img src={placeholder3} alt=""/>
-                    </div> */}
+                    </div>
 
                 </div>
                 <div className="aboutInfoItems">
